@@ -1,0 +1,21 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\bin\Debug\TableManager.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\bin\Debug\TableManager.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\obj\Debug\TableManager.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\obj\Debug\TableManager.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\obj\Debug\TableManager.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\obj\Debug\TableManager.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\obj\Debug\TableManager.L_ChooseTab.resources
+D:\Dev\TableManager\TableManager\obj\Debug\TableManager.exe
+D:\Dev\TableManager\TableManager\obj\Debug\TableManager.pdb
+D:\Dev\TableManager\TableManager\bin\Debug\TableManager.exe
+D:\Dev\TableManager\TableManager\bin\Debug\TableManager.pdb
+D:\Dev\TableManager\TableManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\TableManager\TableManager\obj\Debug\TableManager.Properties.Resources.resources
+D:\Dev\TableManager\TableManager\obj\Debug\TableManager.csproj.GenerateResource.Cache
+D:\Dev\TableManager\TableManager\obj\Debug\TableManager.Win_Main.resources
+D:\Dev\TableManager\TableManager\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Dev\TableManager\TableManager\obj\Debug\Interop.Office.dll
+D:\Dev\TableManager\TableManager\obj\Debug\TableManager.csproj.ResolveComReference.cache
+D:\Dev\TableManager\TableManager\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Dev\TableManager\TableManager\bin\Debug\Interop.Office.dll

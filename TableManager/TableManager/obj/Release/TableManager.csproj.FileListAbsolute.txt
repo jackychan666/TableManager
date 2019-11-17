@@ -1,0 +1,21 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\obj\Release\TableManager.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\obj\Release\TableManager.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\obj\Release\TableManager.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\bin\Release\TableManager.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\bin\Release\TableManager.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\obj\Release\TableManager.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\TableManager\obj\Release\TableManager.pdb
+D:\Dev\TableManager\TableManager\bin\Release\TableManager.exe
+D:\Dev\TableManager\TableManager\bin\Release\TableManager.pdb
+D:\Dev\TableManager\TableManager\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\TableManager\TableManager\obj\Release\TableManager.Properties.Resources.resources
+D:\Dev\TableManager\TableManager\obj\Release\TableManager.csproj.GenerateResource.Cache
+D:\Dev\TableManager\TableManager\obj\Release\TableManager.exe
+D:\Dev\TableManager\TableManager\obj\Release\TableManager.pdb
+D:\Dev\TableManager\TableManager\obj\Release\TableManager.Win_Main.resources
+D:\Dev\TableManager\TableManager\bin\Release\Interop.Microsoft.Office.Core.dll
+D:\Dev\TableManager\TableManager\bin\Release\Interop.Office.dll
+D:\Dev\TableManager\TableManager\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Dev\TableManager\TableManager\obj\Release\Interop.Office.dll
+D:\Dev\TableManager\TableManager\obj\Release\TableManager.csproj.ResolveComReference.cache

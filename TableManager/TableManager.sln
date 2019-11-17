@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableManager", "TableManager\TableManager.csproj", "{030E74D5-EF3F-4AB8-B25F-9345B2870E18}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{F73057A6-9ADF-47D9-ABFA-E97EA77A7EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{030E74D5-EF3F-4AB8-B25F-9345B2870E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030E74D5-EF3F-4AB8-B25F-9345B2870E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030E74D5-EF3F-4AB8-B25F-9345B2870E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030E74D5-EF3F-4AB8-B25F-9345B2870E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73057A6-9ADF-47D9-ABFA-E97EA77A7EFA}.Debug|Any CPU.ActiveCfg = Debug
+		{F73057A6-9ADF-47D9-ABFA-E97EA77A7EFA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
